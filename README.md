@@ -21,7 +21,7 @@ Only Windows machines are supported currently!
 
 ### Folder Structure
 
-Download `dupfinder_windows.zip` from here and extract it. You should see
+Download `dupfinder_windows.zip` from [here](https://drive.google.com/file/d/1i7joGJe-WYZtMQDpSyqnVpoGn7reHkf8) and extract it. You should see
 
 ```
 dupfinder/
