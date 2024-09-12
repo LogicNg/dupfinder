@@ -1,0 +1,11 @@
+.venv/
+filtered/
+photos/
+.processed/
+__pycache__/
+build/
+const.py
+main.py
+main.spec
+utils/
+dist/
