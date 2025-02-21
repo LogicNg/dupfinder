@@ -1,11 +1,5 @@
 # Dupfinder
 
-## Important Stuff
-
-If you want to see the code, give me some time, I need to clean it up a bit.
-
-I highly recommend you to star this project and follow me on GitHub so you get notified when I update the repo.
-
 ## What's That
 
 It basically does several things
